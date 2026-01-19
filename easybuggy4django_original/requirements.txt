@@ -12,3 +12,4 @@ requests==2.18.4
 urllib3==1.24.2
 ldap3==2.5
 validate_email
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
